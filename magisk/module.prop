@@ -1,0 +1,6 @@
+id=miui_push_device_fake
+name=Miui Push Device Fake
+version=v1.0.0
+versionCode=10000
+author=dianqk
+description=伪装成MIUI提高Push注册机率
